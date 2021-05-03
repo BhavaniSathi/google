@@ -1,0 +1,16 @@
+{
+  "name": "google",
+  "version": "1.0.0",
+  "description": "Web Learning Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "nodemon":"nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^16.0.0",
+    "nodemon": "^2.0.7"
+  }
+}
